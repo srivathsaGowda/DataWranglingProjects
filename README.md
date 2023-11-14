@@ -3,9 +3,9 @@ Data wrangling or data cleaning is the process of detecting and correcting corru
 
 **Steps in Data Cleaning**
 
-Step 1: Remove duplicate or irrelevant observations that deviate us from our goal
-Step 2: Fix structural errors ie. strange naming conventions, typos, or incorrect capitalization.
-Step 3: Filter unwanted outliers 
-Step 4: Handle missing data
-Step 5: Validate your data
+**Step 1**: Remove duplicate or irrelevant observations that deviate us from our goal
+**Step 2**: Fix structural errors ie. strange naming conventions, typos, or incorrect capitalization.
+**Step 3**: Filter unwanted outliers 
+**Step 4**: Handle missing data
+**Step 5**: Validate your data
 
